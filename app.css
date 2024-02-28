@@ -7,7 +7,7 @@ body {
     align-items: center;
 }
 .container {
-    margin: 10px;
+    margin: 12px;
     padding: 10px;
     height: 90vh;
     width: 90%;
@@ -21,10 +21,13 @@ body {
 }
 .announce_text {
     margin-top: 60px;
-    font-size: 2rem;
+    font-size: 1.8rem;
+}
+.copy-right {
+    font-size: 0.8rem;
 }
 .copy-right span {
-    font-size: 10px;
+    font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 10px;
 }
